@@ -1,0 +1,22 @@
+{
+  "short_name": "BIST 100",
+  "name": "BIST 100 Analiz",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3314/3314336.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3314/3314336.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2563eb",
+  "orientation": "portrait"
+}
